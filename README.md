@@ -15,7 +15,8 @@
  * Black-box or derivative-free optimization
  * Sensitivity & Error Analysis
  * Verification & Validation Problem (V&V)
- * Finite Element Method using Explicit Formulation
+ * Finite Element Method using Explicit Formulation/Hydrocodes
+ * Dynamic Behavior of Materials & Shock Physics
  * 
 ### Workflow
 Still thinking about ideas of how to organize the code and considering if I should make a PyPi package if there is enough interest and scalability/success with these algorithms
