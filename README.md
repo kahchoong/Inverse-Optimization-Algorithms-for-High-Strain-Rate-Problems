@@ -8,10 +8,10 @@
   * **[Charged System Search (CSS)](https://link-springer-com.srv-proxy1.library.tamu.edu/article/10.1007/s00707-009-0270-4)**
 
 ### Important Topics/Focus Areas
- * ** Black-box or derivative-free optimization **
- * ** Sensitivity & Error Analysis **
- * ** Verification & Validation Problem (V&V) **
- * ** Finite Element Method using Explicit Formulation **
+ * Black-box or derivative-free optimization
+ * Sensitivity & Error Analysis
+ * Verification & Validation Problem (V&V)
+ * Finite Element Method using Explicit Formulation
  * 
 ### Workflow
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; still thinking about ideas of how to organize the code and
