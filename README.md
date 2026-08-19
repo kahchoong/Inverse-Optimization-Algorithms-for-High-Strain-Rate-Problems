@@ -1,5 +1,5 @@
 # Inverse problem to resolve high-strain rate plasticity behavior of materials from dynamic experimental data
-<img width="1941" height="908" alt="image" src="https://github.com/user-attachments/assets/22585c2a-0364-4571-ae04-7158902ace14" />
+![description](1-15.gif)
 
 * The goal of my research, in general, is to understand inferrability of the plastic stress-strain curve from experimental data. Some experiments such as Taylor cylinder, Richtmeyer Meshkov Instabilities (RMI), Split Hopkinson Pressure Bar Test (SHPB) are commonly used already to directly measure the stress-strain response or dynamic strength. However, some metrics can be not quite so sensitive in resolving the stress-strain response (i.e. many different stress-strain responses can result from a similar enough experimental output) or sensitive to sources of error (ill-posedness). The work here has significance in understanding [planetary science](https://www.nature.com/articles/s41467-026-72210-4), [planetary defense](https://science.nasa.gov/mission/dart/), [materials under extreme conditions](https://pubmed.ncbi.nlm.nih.gov/38778107/), etc.
 * What is an inverse problem?
