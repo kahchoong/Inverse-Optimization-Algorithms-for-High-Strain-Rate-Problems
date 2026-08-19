@@ -21,8 +21,8 @@
 ### Workflow
 Still thinking about ideas of how to organize the code and considering if I should make a PyPi package if there is enough interest and scalability/success with these algorithms
 
-### References and Sources (at least the ones that have made sense of what I am doing)
+### References, Sources, Interesting Reads (at least sources that have made sense of what I am doing)
   1. Meyers, M. A. (1994). Dynamic behavior of materials. Wiley-Interscience. https://doi.org/10.1002/9780470172278
-  2. https://alexdowad.github.io/visualizing-nelder-mead/
-  3. https://en.wikipedia.org/wiki/Curse_of_dimensionality
-  4. https://www.osti.gov/biblio/2583339
+  2. [Visualizing the Nelder-Mead](https://alexdowad.github.io/visualizing-nelder-mead/)
+  3. [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+  4. [Basic Research Needs for Inverse Methods for Complex Systems under Uncertainty](https://www.osti.gov/biblio/2583339)
