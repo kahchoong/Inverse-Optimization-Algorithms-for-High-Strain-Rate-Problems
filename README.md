@@ -23,3 +23,4 @@
 ### References and Sources (at least the ones that have made sense of what I am doing)
   1. Meyers, M. A. (1994). Dynamic behavior of materials. Wiley-Interscience. https://doi.org/10.1002/9780470172278
   2. https://alexdowad.github.io/visualizing-nelder-mead/
+  3. https://en.wikipedia.org/wiki/Curse_of_dimensionality
