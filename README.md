@@ -2,4 +2,4 @@
 
 ### Optimization algorithms considered so far
 
-### Key References (that have allowed me to understand what I am doing)
+### Key References (at least the ones that have made sense of what I am doing)
